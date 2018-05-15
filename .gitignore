@@ -1,0 +1,9 @@
+bin/
+vendor/pkg/
+vendor/src/
+pkg/
+node_modules/
+# Serverless directories
+.serverless/
+stack.json
+.idea/

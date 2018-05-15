@@ -1,0 +1,195 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/Jeffail/gabs",
+			"repository": "https://github.com/Jeffail/gabs",
+			"revision": "44cbc27138518b15305cb3eef220d04f2d641b9b",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/PuerkitoBio/goquery",
+			"repository": "https://github.com/PuerkitoBio/goquery",
+			"revision": "ea1bc64a63088ac2bbf1a2edcae38413794a7710",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/andybalholm/cascadia",
+			"repository": "https://github.com/andybalholm/cascadia",
+			"revision": "901648c87902174f774fac311d7f176f8647bdaa",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/aws/aws-lambda-go",
+			"repository": "https://github.com/aws/aws-lambda-go",
+			"revision": "16345c95f707776c585583dfe7be8dda7dd9aeb7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/aws/aws-sdk-go",
+			"repository": "https://github.com/aws/aws-sdk-go",
+			"revision": "9126c903321d2b064c2d3b192b1cf352828ef3a4",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/codegangsta/cli",
+			"repository": "https://github.com/codegangsta/cli",
+			"revision": "8e01ec4cd3e2d84ab2fe90d8210528ffbb06d8ff",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/davecgh/go-spew/spew",
+			"repository": "https://github.com/davecgh/go-spew",
+			"revision": "8991bc29aa16c548c550c7ff78260e27b9ab7c73",
+			"branch": "master",
+			"path": "/spew"
+		},
+		{
+			"importpath": "github.com/go-ini/ini",
+			"repository": "https://github.com/go-ini/ini",
+			"revision": "5e9692864e22d02ac79e2fa499cffb00520b4fea",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jmespath/go-jmespath",
+			"repository": "https://github.com/jmespath/go-jmespath",
+			"revision": "c2b33e8439af944379acbdd9c3a5fe0bc44bd8a5",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/mmcdole/gofeed",
+			"repository": "https://github.com/mmcdole/gofeed",
+			"revision": "0a05f076cc7ae8b762c04ad09565f029364545ce",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/mmcdole/goxpp",
+			"repository": "https://github.com/mmcdole/goxpp",
+			"revision": "77e4a51a73ed99ee3f33c1474dc166866304acbd",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/pmezard/go-difflib/difflib",
+			"repository": "https://github.com/pmezard/go-difflib",
+			"revision": "792786c7400a136282c1664665ae0a8db921c6c2",
+			"branch": "master",
+			"path": "/difflib"
+		},
+		{
+			"importpath": "github.com/sirupsen/logrus",
+			"repository": "https://github.com/sirupsen/logrus",
+			"revision": "778f2e774c725116edbc3d039dc0dfc1cc62aae8",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/stretchr/testify/assert",
+			"repository": "https://github.com/stretchr/testify",
+			"revision": "c679ae2cc0cb27ec3293fea7e254e47386f05d69",
+			"branch": "master",
+			"path": "/assert"
+		},
+		{
+			"importpath": "golang.org/x/crypto/ssh/terminal",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "b2aa35443fbc700ab74c586ae79b81c171851023",
+			"branch": "master",
+			"path": "/ssh/terminal"
+		},
+		{
+			"importpath": "golang.org/x/net/html",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "b3c676e531a6dc479fa1b35ac961c13f5e2b4d2e",
+			"branch": "master",
+			"path": "/html"
+		},
+		{
+			"importpath": "golang.org/x/net/publicsuffix",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "b3c676e531a6dc479fa1b35ac961c13f5e2b4d2e",
+			"branch": "master",
+			"path": "/publicsuffix"
+		},
+		{
+			"importpath": "golang.org/x/sys/unix",
+			"repository": "https://go.googlesource.com/sys",
+			"revision": "3b87a42e500a6dc65dae1a55d0b641295971163e",
+			"branch": "master",
+			"path": "/unix"
+		},
+		{
+			"importpath": "golang.org/x/text/encoding",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/encoding"
+		},
+		{
+			"importpath": "golang.org/x/text/internal/language",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/internal/language"
+		},
+		{
+			"importpath": "golang.org/x/text/internal/tag",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/internal/tag"
+		},
+		{
+			"importpath": "golang.org/x/text/internal/utf8internal",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/internal/utf8internal"
+		},
+		{
+			"importpath": "golang.org/x/text/language",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/language"
+		},
+		{
+			"importpath": "golang.org/x/text/runes",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/runes"
+		},
+		{
+			"importpath": "golang.org/x/text/transform",
+			"repository": "https://go.googlesource.com/text",
+			"revision": "2cb43934f0eece38629746959acc633cba083fe4",
+			"branch": "master",
+			"path": "/transform"
+		},
+		{
+			"importpath": "golang.org/x/tools/go/ast/astutil",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "ac136b6c2db7c4d43955e4bc7174db36dc0539c0",
+			"branch": "master",
+			"path": "/go/ast/astutil"
+		},
+		{
+			"importpath": "golang.org/x/tools/go/buildutil",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "ac136b6c2db7c4d43955e4bc7174db36dc0539c0",
+			"branch": "master",
+			"path": "/go/buildutil"
+		},
+		{
+			"importpath": "gopkg.in/resty.v1",
+			"repository": "https://gopkg.in/resty.v1",
+			"revision": "f8815663de1e64d57cdd4ee9e2b2fa96977a030e",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/urfave/cli.v1",
+			"repository": "https://gopkg.in/urfave/cli.v1",
+			"revision": "cfb38830724cc34fedffe9a2a29fb54fa9169cd1",
+			"branch": "master"
+		}
+	]
+}
